@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 I am a fifth-year Ph.D. student in Electrical and Computer Engineering at the ECE Department at the University of Southern California (USC), Los Angeles, CA. 
 I work as a Graduate Researcher at the USC Micro-Electro-Mechanical Systems (MEMS) group under the supervision of Prof. Eun Sok Kim. I am completing both my MSc degrees in ECE and Computer Science (CS) at the Viterbi School of Engineering of USC.
 
-My research areas mainly focus on solutions for noise-robust classifications for automatic lung sound wheezing detection, integrated hardware systems for ultra-low power wearables and IoT-based applications, 5G networks circuit design and wireless IC tamper detection through RFID authentication, and RF design and characteristics.
+My research areas mainly focus on solutions for noise-robust classifications for automatic lung sound wheezing detection, machine learning for medical sensing applications, integrated hardware implementation for ultra-low power wearables and IoT-based applications, 5G networks circuit design and wireless IC tamper detection through RFID authentication, and RF design and characteristics.
