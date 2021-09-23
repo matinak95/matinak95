@@ -37,7 +37,13 @@ I brought some photos of my recent works below. I hope you enjoy them :)
 ![Tamperdetection](Device_II.png)
 
 
-![BLE_Chipset](HBAR.jpg)
+![HBAR](HBAR.jpg)
+
+![MSPA](Mini_Antenna.jpg)
+
+![wirebond](wire_bond.jpg)
+
+
 
 ![R_Plot](R_Plot.png)
 
