@@ -28,14 +28,14 @@ I work as a Graduate Researcher at the USC Micro-Electro-Mechanical Systems (MEM
 
 My research areas mainly focus on solutions for noise-robust classifications for automatic lung sound wheezing detection, machine learning for medical sensing applications, integrated hardware implementation for ultra-low power wearables and IoT-based applications, 5G networks circuit design and wireless IC tamper detection through RFID authentication, and RF design and characteristics.
 
-![BLE_Chipset](Cypress.png)
+![BLE_Chipset](Cypress.jpg)
 
-![BLE_Chipset](VEC.png)
+![BLE_Chipset](VEC.jpg)
 
 
-![BLE_Chipset](VEC_Old.png)
+![BLE_Chipset](VEC_Old.jpg)
 
-![BLE_Chipset](VEC_Voltage.png)
+![BLE_Chipset](VEC_Voltage.jpg)
 
 ![Tamperdetection](Device_II.png)
 
