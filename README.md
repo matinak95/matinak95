@@ -32,7 +32,7 @@ My research areas mainly focus on solutions for noise-robust classifications for
 
 ![Tamperdetection](Device_II.png)
 
-![Tamperdetection](errors.png)
+![Tamperdetection](R_Plot.png)
 
 ![BLE_Chipset](VEC.jpg)
 
@@ -40,7 +40,5 @@ My research areas mainly focus on solutions for noise-robust classifications for
 ![BLE_Chipset](VEC_Old.jpg)
 
 ![BLE_Chipset](VEC_Voltage.jpg)
-
-![Tamperdetection](R_Plot.png)
 
 ![Cross-sections](1.jpg)
