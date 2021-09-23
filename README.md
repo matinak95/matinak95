@@ -41,7 +41,7 @@ I brought some photos of my recent works below. I hope you enjoy them :)
 
 ![MSPA](Mini_Antenna.jpg)
 
-![wirebond](wire_bond.jpg)
+![wirebond](wire-bond.jpg)
 
 
 
