@@ -36,6 +36,9 @@ I brought some photos of my recent works below. I hope you enjoy them :)
 
 ![Tamperdetection](Device_II.png)
 
+
+![BLE_Chipset](HBAR.jpg)
+
 ![R_Plot](R_Plot.png)
 
 ![VEC](VEC.jpg)
