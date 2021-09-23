@@ -32,13 +32,13 @@ My research areas mainly focus on solutions for noise-robust classifications for
 
 ![Tamperdetection](Device_II.png)
 
-![Tamperdetection](R_Plot.png)
+![R_Plot](R_Plot.png)
 
-![BLE_Chipset](VEC.jpg)
+![VEC](VEC.jpg)
 
 
-![BLE_Chipset](VEC_Old.jpg)
+![Old_VEC](VEC_Old.jpg)
 
-![BLE_Chipset](VEC_Voltage.jpg)
+![VEC_Voltage](VEC_Voltage.jpg)
 
 ![Cross-sections](1.jpg)
