@@ -30,4 +30,4 @@ My research areas mainly focus on solutions for noise-robust classifications for
 
 ![Tamperdetection](Device_II.png)
 
-![Tamperdetection](1.jpg)
+![Cross-sections](1.jpg)
