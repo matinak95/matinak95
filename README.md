@@ -39,7 +39,6 @@ I brought some photos of my recent works below. I hope you enjoy them :)
 
 ![HBAR](HBAR.jpg)
 
-![MSPA](Mini_Antenna.jpg)
 
 ![wirebond](wire-bond.jpg)
 
@@ -52,8 +51,3 @@ I brought some photos of my recent works below. I hope you enjoy them :)
 ![VEC](VEC.jpg)
 
 
-![Old_VEC](VEC_Old.jpg)
-
-![VEC_Voltage](VEC_Voltage.jpg)
-
-![Cross-sections](1.jpg)
