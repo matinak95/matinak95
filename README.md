@@ -35,6 +35,7 @@ Some photos of my recent research works:
 <br/><br/>
 
 ![Lung Sound Wheezes](melSpec_pos_vs_neg_2022-03-10_18_44_01.348300_dpi300.png)
+Wheezing Detection for Early Asthma Detection in Human Lung Sound Signal
 
 ![BLE_Chipset](Cypress.jpg)
 
