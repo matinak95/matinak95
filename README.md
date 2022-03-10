@@ -34,7 +34,7 @@ Some photos of my recent research works:
 
 <br/><br/>
 
-![Lung Sound Wheezes](melSpec_pos_vs_neg_2022-03-10 18_44_01.348300_dpi300.png)
+![Lung Sound Wheezes](melSpec_pos_vs_neg_2022-03-10_18_44_01.348300_dpi300.png)
 
 ![BLE_Chipset](Cypress.jpg)
 
