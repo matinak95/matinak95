@@ -38,7 +38,7 @@ Some photos of my recent research works:
 
 ![BLE_Chipset](Cypress.jpg)
 
-![Tamperdetection](Device_II.png)
+![Tamperdetection](Wireless.png)
 
 
 ![HBAR](HBAR.jpg)
