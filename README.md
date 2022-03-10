@@ -45,7 +45,7 @@ I also brought some photos of my works below. I hope you enjoy them :)
 ![wirebond](wire-bond.jpg)
 
 
-![MSPA](Ducks.jpg)
+![MSPA]("Wireless Setup.jpg")
 
 
 ![R_Plot](R_Plot.png)
