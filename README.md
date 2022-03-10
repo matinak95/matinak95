@@ -38,7 +38,7 @@ Some photos of my recent research works:
 Wheezing Detection for Early Asthma Detection in Human Lung Sound Signal.
 
 ![BLE_Chipset](Cypress.jpg)
-Miniature Cypress BLE Chipset Based on PSoC6 Platform for Breathing Signal Recording, Audio Feature Extraction, and Bluetooth Communication.
+Miniature Cypress BLE Chipset Based on PSoC6 Embedded Platform for Breathing Signal Recording, Audio Feature Extraction, and Bluetooth Communication.
 
 ![Tamperdetection](Wireless.png)
 Batterly-less Wireless Tamper Detection System Battling Counterfeit Microelectronics.
