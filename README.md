@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I am a fifth-year Ph.D. student in Electrical and Computer Engineering at the ECE Department of the University of Southern California (USC), Los Angeles, CA. 
 I work as a Graduate Researcher at the USC Micro-Electro-Mechanical Systems (MEMS) group under the supervision of Prof. Eun Sok Kim. I am completing both my MSc degrees in ECE and Computer Science (CS) at the Viterbi School of Engineering of USC. Before I start my graduate program at USC, I took my BSc degree from the Electrical Engineering department of Sharif University of Technology, Tehran, Iran.
 
-My research areas mainly focus on solutions for noise-robust classifications for automatic lung sound wheezing detection, machine learning for medical sensing applications, integrated hardware implementation for ultra-low power wearables and IoT-based applications, 5G networks circuit design, wireless IC tamper detection through RFID authentication, and RF design and characteristics.
+My research areas mainly focus on smart sensors design and implementation, applications for low-power wireless embedded DSP modules, machine learning solutions for sensors, low-power sensing, and AI in Healthcare.
 
 Here is my [CV](Matin_Barekatain_CV.pdf).
 
