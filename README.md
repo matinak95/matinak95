@@ -56,9 +56,10 @@ Wireless Authentication at 7.5 GHz Frequency Using Dual MSPAs.
 
 
 ![R_Plot](R_Plot.png)
+
 Feature Correlations for House Prices in Iowa State.
 
 ![VEC](VEC.jpg)
-Vibrational Energy Harvester Based on PZT and Magnet Proof Mass.
+Vibrational Energy Harvesters Based on PZT and Magnet Proof Mass.
 
 
