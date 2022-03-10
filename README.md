@@ -30,9 +30,11 @@ My research areas mainly focus on solutions for noise-robust classifications for
 
 Here is my [CV](Matin_Barekatain_CV.pdf).
 
-I also brought some photos of my works below. I hope you enjoy them :)
+Some photos of my recent research works:
 
 <br/><br/>
+
+![Lung Sound Wheezes](melSpec_pos_vs_neg_2022-03-10 18_44_01.348300_dpi300.png)
 
 ![BLE_Chipset](Cypress.jpg)
 
