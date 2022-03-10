@@ -35,24 +35,30 @@ Some photos of my recent research works:
 <br/><br/>
 
 ![Lung Sound Wheezes](melSpec_pos_vs_neg_2022-03-10_18_44_01.348300_dpi300.png)
-Wheezing Detection for Early Asthma Detection in Human Lung Sound Signal
+Wheezing Detection for Early Asthma Detection in Human Lung Sound Signal.
 
 ![BLE_Chipset](Cypress.jpg)
+Miniature Cypress BLE Chipset Based on PSoC6 Platform for Breathing Signal Recording, Audio Feature Extraction, and Bluetooth Communication.
 
 ![Tamperdetection](Wireless.png)
+Batterly-less Wireless Tamper Detection System Battling Counterfeit Microelectronics.
 
 
 ![HBAR](HBAR.jpg)
-
+High-Overtone Bulk Acoustic Resonators Working as SHF RFID Tag.
 
 ![wirebond](wire-bond.jpg)
+Packaging HBAR RFID Tags on PCB with Al Wire-bonding.
 
 
 ![MSPA](wireless_Setup.png)
+Wireless Authentication at 7.5 GHz Frequency Using Dual MSPAs.
 
 
 ![R_Plot](R_Plot.png)
+Feature Correlations for House Prices in Iowa State.
 
 ![VEC](VEC.jpg)
+Vibrational Energy Harvester Based on PZT and Magnet Proof Mass.
 
 
